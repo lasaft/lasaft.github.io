@@ -26,8 +26,8 @@ layout: default
 5. [Keep the Love Alive](https://www.youtube.com/watch?v=c6M1BKAH7eU) - Kyul, TM
 6. [HongJinHo](https://www.youtube.com/watch?v=7KgpnRnS3fk) - GUIN
 7. [두근대](https://www.youtube.com/watch?v=55-bC44AN0Y) - Sllo
-8. [Footprints](https://soundcloud.com/choi-hn/2-2u) - Woosung Choi
-9. [Ms. Seductive - Jeff Bernat (cover)](https://soundcloud.com/choi-hn/ms-seductive) - Woosung Choi
+8. [Ms. Seductive - Jeff Bernat (cover)](https://soundcloud.com/choi-hn/ms-seductive) - Woosung Choi
+9. [Footprints](https://soundcloud.com/choi-hn/2-2u) - Woosung Choi
 10. [Rain](https://soundcloud.com/choi-hn/piano) - Woosung Choi
 
 We will upload other tracks after dealing with copyright issues.
@@ -122,6 +122,10 @@ We will upload other tracks after dealing with copyright issues.
     <td data-th="Etc"><audio controls="" class="audio-player" preload="metadata"><source src="audios/rain-other.wav" type="audio/wav"></audio></td>
   </tr>  
 </table>
+
+## Application: Drum practice
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Au9WQ6hY6w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Model Configuration**
 
